@@ -1,4 +1,4 @@
 {
     "extends": "../../config/typescript-config/library.json",
-    "incluide": ["src/**/*"]
+    "include": ["src/**/*"]
 }
